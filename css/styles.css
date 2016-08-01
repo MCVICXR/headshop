@@ -70,3 +70,19 @@ p.endline {
     width: 320px;
   }
 }
+@media screen and (min-width: 768px) {
+  img.logo {
+    width: 100%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  img.logo {
+    width: 90%;
+  }
+}
+i.fb {
+    font-size: 4em;
+}
+i.ig {
+    font-size: 4em;
+}
